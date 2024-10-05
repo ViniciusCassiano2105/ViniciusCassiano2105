@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">💻 Apaixonado por tecnologia<br>🎮 Gamer nas horas vagas<br>✈️ Amante de viagens<br>🎸 Fã de rock<br>🎓 Cursando Residência em TIC Software (Serratec) e Sistemas de Informação (Uninter).<br>🔧 Formado em Técnico em Mecânica</p>
+<p align="left">💻 Apaixonado por tecnologia<br>🎮 Gamer nas horas vagas<br>✈️ Amante de viagens<br>🎸 Fã de rock<br>🎓 Cursando Residência em TIC Software (Serratec) e Sistemas de Informação (Uninter)<br>🔧 Formado em Técnico em Mecânica</p>
 
 ###
 
