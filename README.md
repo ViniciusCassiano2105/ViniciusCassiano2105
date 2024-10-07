@@ -7,6 +7,7 @@
 ###
 
 <p align="left">💻 Apaixonado por tecnologia<br>🎮 Gamer nas horas vagas<br>🎸 Fã de rock<br>
+
 ###
 
 <div align="left">
