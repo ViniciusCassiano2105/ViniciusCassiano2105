@@ -1,14 +1,30 @@
 <h2 align="left">About me</h2>
 
-###
-
-<h3 align="center">Olá, mundo! 🌍<br>👋 Me chamo Vinicius Cassiano, prazer! Sou estudante de Desenvolvimento FullStack.</h3>
-
-###
-
-<p align="left">💻 Apaixonado por tecnologia<br>🎮 Gamer nas horas vagas<br>🎸 Fã de rock<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1100">
+</div>
 
 ###
+
+<p align="left">Olá, mundo! 🌍<br>Me chamo Vinicius!<br> Sou estudante de Desenvolvimento FullStack.</p>
+
+###
+
+<p align="left">💻 Apaixonado por tecnologia<br>🎮 Gamer nas horas vagas<br>🎸 Fã de rock</p>
+
+---
+
+###
+
+<p align="left">
+🔭 Atualmente estudando Java, JavaScript e React<br>
+🌱 Em busca de aprimorar minhas habilidades em Desenvolvimento FullStack<br>
+📫 Contate-me pelo email: <a href="mailto:viniciuscassiano2105v@gmail.com">viniciuscassiano2105v@gmail.com</a><br>
+⚡ Não sou especialista em hardware, mas adoraria ajudar no que for possível! 😄
+</p>
+
+###
+
 <h2 align="left">Techs</h2>
 
 ###
@@ -42,5 +58,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/ViniciusCassiano2105/count.svg?"  />
 </div>
-
-###
